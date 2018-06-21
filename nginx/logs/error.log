@@ -1,0 +1,1 @@
+2018/06/20 20:11:13 [error] 22152#0: *1 open() "/usr/local/nginx/html/favicon.ico" failed (2: No such file or directory), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost"
